@@ -1,0 +1,97 @@
+Timestamp,SourceSystem,Message,TimestampDescription,Source
+03/19/2024 02:14:36,DC,File Creation of Documents.zip in the path .\Users\Public\Documents,File Creation,MFT
+03/19/2024 02:20:14,DC,File Creation of out.7z in the path .\Users\administrator\Downloads\x64,File Creation,MFT
+03/19/2024 03:06:42,DC,File Creation of tunnel.aspx in the path .\PerfLogs,File Creation,MFT
+03/19/2024 02:34:55,DC,"Opened C:\Windows\System32\mstsc.exe /v:""192.168.56.103""",File/Folder Browsing,Jump Lists
+03/19/2024 02:21:36,DC,"Opened C:\Users\administrator\Downloads\x64\out.7z ",File/Folder Browsing,Jump Lists
+03/19/2024 02:15:30,DC,"Opened C:\Users\Public\Documents\Documents.zip ",File/Folder Browsing,Jump Lists
+03/19/2024 01:14:02,DC,"Opened C:\Users\admin.1\Desktop\helpdesk_password\password_policy.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 01:13:54,DC,"Opened C:\Users\admin.1\Desktop\router_configs\Router3_config.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 01:13:11,DC,"Opened C:\Users\admin.1\Desktop\my_network_deets.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 02:17:41,DC,"Opened C:\Users\administrator\Documents\fi.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 02:08:32,DC,"Opened C:\Users\administrator\Downloads\x64\out.log ",File/Folder Browsing,Jump Lists
+03/19/2024 01:34:17,DC,"Opened C:\Users\administrator\Downloads\nm.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 01:14:02,DC,"Opened C:\Users\admin.1\Desktop\helpdesk_password\password_policy.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 01:13:54,DC,"Opened C:\Users\admin.1\Desktop\router_configs\Router3_config.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 01:13:11,DC,"Opened C:\Users\admin.1\Desktop\my_network_deets.txt ",File/Folder Browsing,Jump Lists
+03/19/2024 03:06:47,DC,"Opened C:\PerfLogs ",File/Folder Browsing,Jump Lists
+03/19/2024 03:06:47,DC,"Opened  ",File/Folder Browsing,Jump Lists
+03/19/2024 02:32:28,DC,"Opened C:\Users\administrator\Downloads ",File/Folder Browsing,Jump Lists
+03/19/2024 02:21:36,DC,"Opened C:\Users\administrator\Downloads\x64 ",File/Folder Browsing,Jump Lists
+03/19/2024 02:17:41,DC,"Opened C:\Users\administrator\Documents ",File/Folder Browsing,Jump Lists
+03/19/2024 01:14:02,DC,"Opened C:\Users\admin.1\Desktop\helpdesk_password ",File/Folder Browsing,Jump Lists
+03/19/2024 01:13:54,DC,"Opened C:\Users\admin.1\Desktop\router_configs ",File/Folder Browsing,Jump Lists
+03/19/2024 01:13:11,DC,"Opened C:\Users\admin.1\Desktop ",File/Folder Browsing,Jump Lists
+03/19/2024 01:08:07,DC,"Opened C:\Users\administrator\Pictures ",File/Folder Browsing,Jump Lists
+03/19/2024 01:08:06,DC,"Opened C:\Users\administrator\Desktop ",File/Folder Browsing,Jump Lists
+03/19/2024 01:17:00,DC,https://angryip.org/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:17:20,DC,https://angryip.org/#google_vignette visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:17:22,DC,https://angryip.org/download/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:17:22,DC,https://angryip.org/download/#windows visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:21:19,DC,https://www.google.com/search?q=advanced+ip+scanner&rlz=1C1GCER_enUS1102US1102&oq=advanced+ip+&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhAqAIAsAIA&sourceid=chrome&ie=UTF-8 visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:21:34,DC,https://www.advanced-ip-scanner.com/download/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:24:46,DC,https://www.google.com/search?q=nmap+windows&rlz=1C1GCER_enUS1102US1102&oq=nmap+wi&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8 visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:24:59,DC,https://nmap.org/book/inst-windows.html visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:25:30,DC,https://nmap.org/download.html visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 01:25:33,DC,https://nmap.org/download.html#windows visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:13:22,DC,https://www.google.com/search?q=7zip&rlz=1C1GCER_enUS1102US1102&oq=7zip&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxMzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:13:22,DC,https://www.google.com/search?q=7zip&rlz=1C1GCER_enUS1102US1102&oq=7zip&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxMzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:13:34,DC,https://www.7-zip.org/download.html visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:15:04,DC,https://file.io/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:15:04,DC,http://file.io/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:15:04,DC,https://file.io/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:15:04,DC,https://www.file.io/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:15:04,DC,http://file.io/ visited using Chrome,Browsing_History,Nirsoft
+03/19/2024 02:14:43,DC,Chrome was executed,Program Execution,User Assist
+03/19/2024 01:26:08,DC,C:\Users\administrator\Downloads\nmap-7.94-setup.exe was executed,Program Execution,User Assist
+03/19/2024 01:28:04,DC,Microsoft.AutoGenerated.{Unmapped GUID: D2872DFE-4EC4-CD29-E597-62FB105E7FDA} was executed,Program Execution,User Assist
+03/19/2024 02:14:06,DC,C:\Users\administrator\Downloads\7z2401-x64.exe was executed,Program Execution,User Assist
+03/19/2024 02:32:30,DC,C:\Users\administrator\Downloads\TeamViewer_Host_Setup_x64.exe was executed,Program Execution,User Assist
+03/19/2024 02:13:15,DC,{User Pinned}\TaskBar\Google Chrome.lnk was executed,Program Execution,User Assist
+03/19/2024 01:28:04,DC,{Programs}\Nmap\Nmap - Zenmap GUI.lnk was executed,Program Execution,User Assist
+03/19/2024 02:14:43,DC,C:\Users\Public\Desktop\Google Chrome.lnk was executed,Program Execution,User Assist
+03/19/2024 02:14:43,DC,Chrome was executed,Program Execution,User Assist
+03/19/2024 01:26:08,DC,C:\Users\administrator\Downloads\nmap-7.94-setup.exe was executed,Program Execution,User Assist
+03/19/2024 01:28:04,DC,Microsoft.AutoGenerated.{Unmapped GUID: D2872DFE-4EC4-CD29-E597-62FB105E7FDA} was executed,Program Execution,User Assist
+03/19/2024 02:14:06,DC,C:\Users\administrator\Downloads\7z2401-x64.exe was executed,Program Execution,User Assist
+03/19/2024 02:32:30,DC,C:\Users\administrator\Downloads\TeamViewer_Host_Setup_x64.exe was executed,Program Execution,User Assist
+03/19/2024 02:13:15,DC,{User Pinned}\TaskBar\Google Chrome.lnk was executed,Program Execution,User Assist
+03/19/2024 01:28:04,DC,{Programs}\Nmap\Nmap - Zenmap GUI.lnk was executed,Program Execution,User Assist
+03/19/2024 02:14:43,DC,C:\Users\Public\Desktop\Google Chrome.lnk was executed,Program Execution,User Assist
+03/13/2024 05:10:04,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 18:47:36,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 18:57:13,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 18:59:16,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 18:59:17,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\vagrant from 192.168.0.155 - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 18:59:24,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from 192.168.0.155 - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:01:49,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\vagrant from 216.196.164.236 - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:02:14,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from 216.196.164.236 - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:02:57,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:23:10,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from LOCAL - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:23:10,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\vagrant from 216.196.164.236 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:23:48,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from 216.196.164.236 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:23:48,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:32:48,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:45:17,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:50:12,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:50:13,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\vagrant from 216.196.164.236 - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:50:30,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from 216.196.164.236 - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 19:50:30,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 21:28:02,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/13/2024 21:29:05,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\admin.1 from LOCAL - Session ID: 2,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/18/2024 23:45:55,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/18/2024 23:46:06,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/18/2024 23:46:41,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\admin.1 from LOCAL - Session ID: 2,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:07:58,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\administrator from 185.107.56.154 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:44:36,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\administrator from 185.107.56.154 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:45:14,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\administrator from 185.107.56.154 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:45:36,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\administrator from 185.107.56.154 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:46:43,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\administrator from 185.107.56.154 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:54:49,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\administrator from 185.107.56.154 - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:56:32,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 01:57:25,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\administrator from 185.107.56.154 - Session ID: 2,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 02:55:10,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\administrator from 185.107.56.154 - Session ID: 2,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 02:59:08,DC,Remote Desktop Services: Session reconnection succeeded WINDOMAIN\administrator from 185.107.56.154 - Session ID: 2,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/19/2024 03:25:59,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\administrator from 185.107.56.154 - Session ID: 2,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/20/2024 23:39:45,DC,Remote Desktop Services: Session has been disconnected WINDOMAIN\vagrant from LOCAL - Session ID: 1,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager
+03/20/2024 23:40:07,DC,Remote Desktop Services: Session logon succeeded WINDOMAIN\admin.1 from LOCAL - Session ID: 3,RDP Activity,Microsoft-Windows-TerminalServices-LocalSessionManager

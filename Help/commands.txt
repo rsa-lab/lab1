@@ -1,0 +1,44 @@
+=== This file contains all the command lines used in the labs ====
+Instructions:
+
+Step 1: Double click on a line and copy 
+Step 2: Open PowerShell
+Step 3: Paste the command and press Enter
+==================================================================
+
+
+*Lab 2.1*
+
+&'C:\lab\Tools\MFTECmd\MFTECmd.exe' -f 'C:\lab\Tools\MFTECmd\FileServer\$MFT' --csv C:\Lab\MyOutput\Fileserver
+
+
+*Lab 2.2*
+&'C:\lab\Tools\EvtxEcmd\EvtxECmd.exe' -f 'C:\lab\Tools\EvtxECmd\FileServer\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx' --csv C:\Lab\MyOutput\Fileserver
+
+
+*Lab 2.3*
+
+&'C:\lab\Tools\JLECmd\JLECmd.exe' -d 'C:\lab\Tools\JLECmd\FileServer' --csv C:\Lab\MyOutput\Fileserver
+
+*Lab 2.4*
+&'C:\lab\Tools\ReCmd\ReCmd.exe' -f 'C:\lab\Tools\ReCmd\FileServer\NTUSER.DAT' --bn 'C:\lab\Tools\ReCmd\BatchExamples\BatchExampleUserAssist.reb' --csv C:\Lab\MyOutput\Fileserver
+
+*Lab 2.5*
+It's a GUI tool. No commands to be executed. Follow the lab in the manual. 
+
+*Lab 2.6*
+cd C:\lab\Tools\CSV2Timeline\
+&'C:\lab\Tools\CSV2Timeline\CSV2Timeline.exe' -i 'C:\lab\Tools\CSV2Timeline\Fileserver' -o 'C:\lab\Tools\CSV2Timeline' -s WEF
+
+
+*Lab 3.0*
+
+&'C:\lab\Tools\MFTECmd\MFTECmd.exe' -f 'C:\lab\Tools\MFTECmd\DC\$MFT' --csv C:\Lab\MyOutput\DC
+&'C:\lab\Tools\EvtxEcmd\EvtxECmd.exe' -f 'C:\lab\Tools\EvtxECmd\DC\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx' --csv C:\Lab\MyOutput\DC
+&'C:\lab\Tools\JLECmd\JLECmd.exe' -d 'C:\lab\Tools\JLECmd\DC' --csv C:\Lab\MyOutput\DC
+&'C:\lab\Tools\ReCmd\ReCmd.exe' --nl -f 'C:\lab\Tools\ReCmd\DC\NTUSER.DAT' --bn 'C:\lab\Tools\ReCmd\BatchExamples\BatchExampleUserAssist.reb' --csv C:\Lab\MyOutput\DC
+cd C:\lab\Tools\CSV2Timeline\
+&'C:\lab\Tools\CSV2Timeline\CSV2Timeline.exe' -i 'C:\lab\Tools\CSV2Timeline\DC' -o 'C:\lab\Tools\CSV2Timeline' -s DC
+
+
+
